@@ -1,0 +1,54 @@
+# ==========================================
+# Keil uVision / ARM Compiler Build Outputs
+# ==========================================
+*.o
+*.d
+*.axf
+*.bin
+*.hex
+*.htm
+*.lnp
+*.dep
+*.map
+*.lst
+*.crf
+*.iex
+*.Scr
+*.build_log.htm
+*.sct
+
+# ==========================================
+# Keil Local User & GUI Configuration
+# (Window layouts, active tabs, local settings)
+# ==========================================
+*.uvguix.*
+*.uvgui.*
+*.uvgui
+*.saved_uvoptx
+*.bak
+*.~*
+
+# ==========================================
+# Output and Listing Directories
+# ==========================================
+keil/Objects/*
+!keil/Objects/.gitkeep
+keil/Listings/*
+!keil/Listings/.gitkeep
+
+# ==========================================
+# Keil RTE / Pack Manager Backup Files
+# ==========================================
+*.base@*
+
+# ==========================================
+# Operating System & Editor Files
+# ==========================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
