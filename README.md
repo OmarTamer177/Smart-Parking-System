@@ -5,7 +5,6 @@
 [![RTOS: FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS%20v11%20(CMSIS--RTOS2)-green.svg)](https://www.freertos.org/)
 [![IDE: Keil MDK](https://img.shields.io/badge/IDE-Keil%20uVision%205-orange.svg)](https://www.keil.com/)
 [![Compiler: Arm Compiler 6](https://img.shields.io/badge/Compiler-ARMCLANG%20v6-yellow.svg)](https://developer.arm.com/tools-and-software/embedded/arm-compiler)
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 An automotive-grade, real-time safety monitoring and driver assistance system implemented on the **Texas Instruments TM4C123GH6PM** (ARM Cortex-M4F) microcontroller using **FreeRTOS**.
 
